@@ -1,1 +1,2 @@
 # ProjetoClima
+Projeto feito em JS, o mesmo consta com um script que tem interação com uma API que fará mostrará as informações de temperatura assim que o usuário digitar a cidade escolhida na barra de pesquisa
